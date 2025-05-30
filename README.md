@@ -1,6 +1,6 @@
-# NukPack Nuke & Raid
+# Nuvix RAIDER
 
-Tool For Discord TheEnd
+Tool For Discord raid
 
 # Tutorial
 
