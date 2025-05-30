@@ -1,13 +1,13 @@
 @echo off
 chcp 65001 >nul
-title #ChoseNukPack Installer
+title #NuvixTOOL Installer
 color 0C
 cls
 
 echo.
 echo ╔═══════════════════════════════════════════════════╗
 echo ║          Installing Required Python Modules       ║
-echo ║               By: #ChoseNukPack                   ║
+echo ║               By: #NuvixTool                      ║
 echo ╚═══════════════════════════════════════════════════╝
 echo.
 
