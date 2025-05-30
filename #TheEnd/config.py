@@ -1,10 +1,10 @@
-names = ["chosenukpack", "On Top", "THEEND", "💕", "🤡","🖕" ]
+names = ["NuvixTOOL", "On Top", "NUVIX", "💕", "🤡","🖕" ]
 message = """
-# @everyone #CHOSENUKPACK
+# @everyone #NuvixTOOL
 
-## NuKPack | TheEnd
+## Nuvix | Tool
 
-https://discord.gg/UdB3RTeMKZ
+https://discord.gg/AV7sxuNCS2
 
 """
 token = ""
